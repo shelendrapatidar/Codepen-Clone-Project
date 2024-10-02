@@ -14,6 +14,7 @@ import { CloseFullscreen } from '@mui/icons-material';
 import '../App.css';
 
 const Container = styled(Box)`
+    
     flex-grow: 1;
     flex-basic: 0;
     display: flex;

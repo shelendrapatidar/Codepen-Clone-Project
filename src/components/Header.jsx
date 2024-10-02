@@ -14,6 +14,7 @@ const Header = () => {
         <Container>
             <Toolbar>
                 <img src={logo} alt="logo" style={{ width: 40 }} />
+                <pre>  Code Pan</pre>
             </Toolbar>
         </Container>
     )
